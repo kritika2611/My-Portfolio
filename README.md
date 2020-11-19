@@ -1,2 +1,2 @@
 # My-Portfolio!!
-A basic HTML and CSS based Web page displaying Curriculum Vitae
+A basic HTML based Web page displaying Curriculum Vitae
